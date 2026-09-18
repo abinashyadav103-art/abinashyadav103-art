@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./github-banner.png" width="100%">
+</p>
+
+
 # 👋 Hi, I'm Avinash Yadav
 
 ### 🤖 AI Enthusiast | 💻 Full Stack Developer | 📱 Android Developer
